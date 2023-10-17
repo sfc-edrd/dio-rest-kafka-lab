@@ -3,7 +3,7 @@
 This repository contains a Spring Boot lab project that demonstrates how to integrate with Apache Kafka, while running Kafka inside Docker containers. This lab project provides a step-by-step guide to help you understand and implement Kafka integration within a Spring Boot application.
 
 ## Table of Contents
-0. [Course Information](#Course Information)
+0. [Course Information](#courseinformation)
 1. [Introduction](#introduction)
 2. [Prerequisites](#prerequisites)
 3. [Setup](#setup)
